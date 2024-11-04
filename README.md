@@ -14,6 +14,7 @@
 - <b>Windows 10</b>
 
 <h2>Ticket Lifecycle Stages</h2>
+
 - <b>Intake</b> 
 - <b>Assignment and Communication</b> 
 - <b>Working the Issue</b> 
